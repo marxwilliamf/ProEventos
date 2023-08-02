@@ -20,7 +20,27 @@ namespace ProEventos.API.Controllers
         [HttpGet]
         public string Get()
         {
-            return "value";
+            return "Exemplo de Get";
         }
+
+        [HttpPost]
+        public string Post()
+        {
+            return "Ecemplo de Post";
+        }
+
+        [HttpPut("{id}")]
+        public string Put(int id)
+        {
+            return $"Ecemplo de Put com id = {id}";
+        }
+
+        [HttpDelete("{id}")]
+        public string Delete(int id)
+        {
+            return $"Ecemplo de Delete com id = {id}";
+        }
+        
+
     }
 }
