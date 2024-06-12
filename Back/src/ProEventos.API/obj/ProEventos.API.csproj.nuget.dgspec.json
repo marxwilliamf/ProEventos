@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "w:\\vscode\\PROEVENTOS\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
+    "W:\\Alemao\\FullStack .NET\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "w:\\vscode\\PROEVENTOS\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {
+    "W:\\Alemao\\FullStack .NET\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "w:\\vscode\\PROEVENTOS\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectUniqueName": "W:\\Alemao\\FullStack .NET\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "w:\\vscode\\PROEVENTOS\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectPath": "W:\\Alemao\\FullStack .NET\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\marxw\\.nuget\\packages\\",
-        "outputPath": "w:\\vscode\\PROEVENTOS\\Back\\src\\ProEventos.API\\obj\\",
+        "outputPath": "W:\\Alemao\\FullStack .NET\\ProEventos\\Back\\src\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\marxw\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\marxw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

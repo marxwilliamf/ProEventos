@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0g9lHmal+es872HH6+5+P2eiYF4szPnaej41mLjTRiCOoj4fmYrnmZA7BAmKcFokrLTjeieKg4YoNooq5AdibQ==",
+  "dgSpecHash": "wGukVett/CssupmCpOAY5kS2VNTrUpHqpi5lm93MuQc9Gkmkg/NPB/9a1QdjSHAmDYUy2FUAlu4azwvNRRLwbQ==",
   "success": true,
-  "projectFilePath": "w:\\vscode\\PROEVENTOS\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "W:\\Alemao\\FullStack .NET\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marxw\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\marxw\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
